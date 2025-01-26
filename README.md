@@ -2,6 +2,7 @@
 這是論文**解析觀點：一種多模態方法，用於分析墮胎迷因中的論點**的程式碼和資料集。
 
 #### 資料來源
+[放在這裡](<https://drive.google.com/drive/folders/1U17i1n4X1wwCJUmg5FUBimTgtP9hIXQ4?usp=sharing>)
 * facebook
 
   資料夾crawl為原始圖片資料集和評論，crawl裡面有四個以日期區間命名的資料夾，e.g. 20210101-20210403，與資料夾同名的csv是該資料夾裡所有貼文的其他屬性，作者、發文日期、按讚數等等。
