@@ -14,10 +14,11 @@ abortion memes\
 ├── facebook/               \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 20210101-20210403/        \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 10164933929680147.jpg\
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 10164933929680147.csv\
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...       \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ...       \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 20210101_20210403.csv        \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...       \
-│       └── settings.yaml\
 ├── instagram/             # 測試檔案資料夾\
 │   ├── test_main.py   # 主程式測試\
 │   └── test_utils.py  # 工具測試\
