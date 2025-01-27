@@ -8,16 +8,25 @@
 日期區間資料夾裡是一組一組的圖片和同名csv檔，csv檔是貼文底下的留言和留言作者。
 
 專案名稱
+
 ├── README.md          # 專案的介紹文件
 
 ├── src/               # 原始碼資料夾
+
 │   ├── main.py        # 主程式入口
+
 │   ├── utils.py       # 工具函式
+
 │   └── config/        # 設定相關檔案
+
 │       └── settings.yaml
+
 ├── tests/             # 測試檔案資料夾
+
 │   ├── test_main.py   # 主程式測試
+
 │   └── test_utils.py  # 工具測試
+
 ├── docs/              # 文件資料夾
 │   └── guide.md       # 使用指南
 └── requirements.txt   # Python 套件需求檔案
