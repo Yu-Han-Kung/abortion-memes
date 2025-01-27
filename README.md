@@ -5,12 +5,7 @@
 
  [完整資料集](<https://drive.google.com/drive/folders/1U17i1n4X1wwCJUmg5FUBimTgtP9hIXQ4?usp=sharing>)
 
-* facebook
-
-  資料夾內有原始圖片資料集和評論，有四個以日期區間命名的資料夾，e.g. 20210101-20210403，與資料夾同名的csv是該資料夾裡所有貼文的其他屬性，作者、發文日期、按讚數等等。\
-日期區間資料夾裡是一組一組的圖片和同名csv檔，csv檔是貼文底下的留言和留言作者。
-
-abortion memes\
+ abortion memes\
 ├── facebook/               \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 20210101-20210403/        \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 10164933929680147.jpg\
@@ -28,9 +23,12 @@ abortion memes\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── zqnbu1d3xcx81.jpg\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ... \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...  \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...  
 
+* facebook
 
+  資料夾內有原始圖片資料集和評論，有四個以日期區間命名的資料夾，e.g. 20210101-20210403，與資料夾同名的csv是該資料夾裡所有貼文的其他屬性，作者、發文日期、按讚數等等。\
+日期區間資料夾裡是一組一組的圖片和同名csv檔，csv檔是貼文底下的留言和留言作者。\
   **注意**\
   20230404-20240404 資料夾裡的評論是所有貼文的評論統一儲存在comment.csv
 * instagram\
