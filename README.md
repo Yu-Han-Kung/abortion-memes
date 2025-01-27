@@ -7,7 +7,7 @@
 
 * facebook
 
-  資料夾內有原始圖片資料集和評論，有四個以日期區間命名的資料夾，e.g. 20210101-20210403，與資料夾同名的csv是該資料夾裡所有貼文的其他屬性，作者、發文日期、按讚數等等。
+  資料夾內有原始圖片資料集和評論，有四個以日期區間命名的資料夾，e.g. 20210101-20210403，與資料夾同名的csv是該資料夾裡所有貼文的其他屬性，作者、發文日期、按讚數等等。\
 日期區間資料夾裡是一組一組的圖片和同名csv檔，csv檔是貼文底下的留言和留言作者。
 
 abortion memes\
@@ -19,17 +19,18 @@ abortion memes\
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── ...       \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── 20210101_20210403.csv        \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...       \
-├── instagram/             # 測試檔案資料夾\
-│   ├── test_main.py   # 主程式測試\
-│   └── test_utils.py  # 工具測試\
-├── reddit/              # 文件資料夾\
-   └── guide.md       # 使用指南
+├── instagram/             \
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...  \
+├── reddit/              \
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── r/memes/        \
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── roe v wade\
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── zqnbu1d3xcx81.jpg\
 
 
-  **注意**
-
+  **注意**\
   20230404-20240404 資料夾裡的評論是所有貼文的評論統一儲存在comment.csv
-* instagram
+* instagram\
+  結構和facebook相同
 * reddit
 
   從以下看板中蒐集，每個看板的蒐集關鍵字即是內部資料夾名稱，每個關鍵字資料夾裡有一個同名csv，儲存該資料夾所有迷因的屬性跟評論。
