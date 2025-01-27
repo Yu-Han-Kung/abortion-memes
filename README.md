@@ -15,7 +15,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...       \
 ├── instagram/             \
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── ...  \
-├── reddit/              \
+└── reddit/              \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── r/memes/        \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── roe v wade/\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── roe v wade.csv\
