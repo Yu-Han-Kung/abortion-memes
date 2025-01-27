@@ -10,7 +10,7 @@
 專案名稱
 
 ├── README.md          # 專案的介紹文件\
-├── [crawl](crawl/)/               # 原始碼資料夾\
+├── [crawl](crawl_code/)/               # 原始碼資料夾\
 │-├── main.py        # 主程式入口\
 │   ├── utils.py       # 工具函式\
 │   └── config/        # 設定相關檔案\
