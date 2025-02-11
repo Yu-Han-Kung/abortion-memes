@@ -59,8 +59,8 @@
 資料集
 分成**支持**和**反對**，0與4合併、1與5合併。
 
-1. BERTopic
-   pro_with_lem.ipynb&nbsp;&nbsp;&nbsp;--> 支持的主題建模
+1. BERTopic\
+   pro_with_lem.ipynb&nbsp;&nbsp;&nbsp;--> 支持的主題建模\
    anti_with_lem.ipynb&nbsp;&nbsp;--> 反對的主題建模
 
 2. GPT & human
