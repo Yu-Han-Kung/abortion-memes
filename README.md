@@ -63,7 +63,8 @@
    pro_with_lem.ipynb&nbsp;&nbsp;&nbsp;--> 支持的主題建模\
    anti_with_lem.ipynb&nbsp;&nbsp;--> 反對的主題建模
 
-2. GPT & human
-   gpt-result.csv&nbsp;&nbsp;&nbsp;人類標註和GPT標註的結果
+2. GPT & human\
+   gpt-result.csv &nbsp;&nbsp;&nbsp;人類標註和GPT標註的結果\
+   gptapi.ipynb   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;API
 
 
