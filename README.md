@@ -54,6 +54,7 @@
 **5** 批評支持墮胎權
 
 標籤的結果儲存在&nbsp;&nbsp;[allclassification.csv](allclassification.csv)
+(標註可能存在誤標)
 
 #### 實驗
 資料集\
