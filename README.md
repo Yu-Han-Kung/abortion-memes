@@ -1,8 +1,9 @@
 # data collection for abortion memes
 這是論文**解析觀點：一種多模態方法，用於分析墮胎迷因中的論點**的程式碼和資料集。
 
-#### 資料來源
+#### 資料集(未公開)
 
+來源
 1. facebook
 2. instagram
 3. reddit
